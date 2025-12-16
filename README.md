@@ -2,8 +2,6 @@
 
 A comprehensive online shopping application built with the **MEN Stack** (MongoDB, Express.js, Node.js) and EJS templates. This project features secure user authentication, product management, a shopping cart, and Stripe payment integration.
 
-**🔗 Live Demo:** [Insert Your Deployment URL Here (e.g., https://my-online-shop.onrender.com)]
-
 ---
 
 ## 📋 Prerequisites
