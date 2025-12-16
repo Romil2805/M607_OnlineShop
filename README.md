@@ -23,5 +23,5 @@ Follow these steps to get the application running on your local machine:
 ### 1. Clone the Repository
 Open your terminal and run:
 ```bash
-git clone [https://github.com/Romil2805/M607_OnlineShop](https://github.com/Romil2805/M607_OnlineShop)
+git clone https://github.com/Romil2805/M607_OnlineShop
 cd OnlineShop_EJS
